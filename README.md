@@ -1,4 +1,4 @@
-This repository contains the network data and, code used to generate stochastic scale free graphs in the project **Construction and stochastic scale-free modelling of empirical, global, index case SARS-CoV-2 transmission network**.
+This repository contains the network data and code used to generate stochastic scale free graphs in the project **Construction and stochastic scale-free modelling of empirical, global, index case SARS-CoV-2 transmission network**.
 
 # Line list data and resources
 
