@@ -119,7 +119,7 @@ def ssf(n, N_max = 6, E_max = 4, time_total = 100 ):
     Returns
     -------
     G : Graph
-
+    """
 
     G = nx.DiGraph()
     G.add_edge( 0, 1, time_stamp = 1)
