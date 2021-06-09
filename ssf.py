@@ -4,7 +4,7 @@
 '''
 MIT License
 
-Copyright (c) 2020 Vikram Singh (PhD Scholar at Centre for Computational Biology
+Copyright (c) 2020 Dr. Vikram Singh (PhD) and Mr Vikram Singh (PhD Scholar), Centre for Computational Biology
 and Bioinformatics, Central University of Himachal Pradesh) 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -120,12 +120,6 @@ def ssf(n, N_max = 6, E_max = 4, time_total = 100 ):
     -------
     G : Graph
 
-
-    References
-    ----------
-    .. [1] A. L. Barabási and R. Albert "Emergence of scaling in
-       random networks", Science 286, pp 509-512, 1999.
-    """
 
     G = nx.DiGraph()
     G.add_edge( 0, 1, time_stamp = 1)
